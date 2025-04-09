@@ -18,7 +18,7 @@ This project is a simple weather forecast application built with React. It uses 
 
 ### 1. Clone the repository
 
-<!-- ```bash
+```bash
 git clone https://github.com/YOUR_USERNAME/fetching-data-in-react.git
 cd fetching-data-in-react
 
@@ -46,4 +46,4 @@ NOTES:
 
 This app was built as part of a Fetching Data in React lab during the Software Engineering Immersive at General Assembly.
 
-The proxy server is not deployed or included in version control, but it can be used locally for secure API access. -->
+The proxy server is not deployed or included in version control, but it can be used locally for secure API access.
